@@ -24,3 +24,18 @@ The main purpose of MySQL is to offer a stable and efficient system for managing
 
 Overall, MySQL is a powerful, flexible, and easy-to-learn database system. Its wide range of tools, strong SQL support, and reliability make it one of the most preferred technologies for developers, students, and businesses in India. Its role in modern IT development continues to grow as more applications and services depend on secure and efficient data management.
 
+# OUTPUTS OF THE TASK
+
+![Image](https://github.com/user-attachments/assets/6cff10f0-94fd-4010-8e8b-f4498cbac229)
+
+![Image](https://github.com/user-attachments/assets/794b7c54-647d-45a3-a058-fcaba6e39e19)
+
+![Image](https://github.com/user-attachments/assets/8a8ab964-7bc6-46c4-8efa-77559aba6a5e)
+
+![Image](https://github.com/user-attachments/assets/45fe4679-547a-48f8-844e-1dcc874f1c25)
+
+![Image](https://github.com/user-attachments/assets/3104d5fd-9565-4611-bfe3-69d13b290f57)
+
+![Image](https://github.com/user-attachments/assets/1ef52b4d-4741-4986-880f-fb97ed353197)
+
+![Image](https://github.com/user-attachments/assets/0c30bb28-4667-4a02-a84b-121cade792c0)
