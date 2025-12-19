@@ -25,17 +25,17 @@ The analytical depth is further enhanced through Window Functions. Unlike standa
 Finally, Correlated Subqueries are utilized to inject dynamic logic into the reporting layer. These subqueries act as internal filters that define "Elite" performance tiers based on real-time averages rather than static, hard-coded numbers. This ensures that the performance benchmarks remain relevant even as the overall market fluctuates.
 
 # OUTPUTS OF THE TASK
-
+1.1 RIGHT
 ![Image](https://github.com/user-attachments/assets/6cff10f0-94fd-4010-8e8b-f4498cbac229)
-
+1.1 LEFT
 ![Image](https://github.com/user-attachments/assets/794b7c54-647d-45a3-a058-fcaba6e39e19)
-
+1.1 INNER
 ![Image](https://github.com/user-attachments/assets/8a8ab964-7bc6-46c4-8efa-77559aba6a5e)
-
+1.1 FULL JOINS
 ![Image](https://github.com/user-attachments/assets/45fe4679-547a-48f8-844e-1dcc874f1c25)
-
+1.2 RIGHT
 ![Image](https://github.com/user-attachments/assets/3104d5fd-9565-4611-bfe3-69d13b290f57)
-
+1.2 LEFT
 ![Image](https://github.com/user-attachments/assets/1ef52b4d-4741-4986-880f-fb97ed353197)
-
+1.2 INNER
 ![Image](https://github.com/user-attachments/assets/0c30bb28-4667-4a02-a84b-121cade792c0)
